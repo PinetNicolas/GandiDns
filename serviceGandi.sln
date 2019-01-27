@@ -9,7 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceGandi", "ServiceGand
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGandiStandard", "ApiGandiStandard\ApiGandiStandard.csproj", "{FDA7ECBB-EEE7-4802-8C02-289167F9AEF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTest", "ApiTest\ApiTest.csproj", "{8389E965-1D37-4D94-B239-7859B80E1828}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiTest", "ApiTest\ApiTest.csproj", "{8389E965-1D37-4D94-B239-7859B80E1828}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupGandi", "SetupGandi\SetupGandi.vdproj", "{51424871-3D0B-4BDB-8D75-99B540620E80}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,8 @@ Global
 		{8389E965-1D37-4D94-B239-7859B80E1828}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8389E965-1D37-4D94-B239-7859B80E1828}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8389E965-1D37-4D94-B239-7859B80E1828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51424871-3D0B-4BDB-8D75-99B540620E80}.Debug|Any CPU.ActiveCfg = Debug
+		{51424871-3D0B-4BDB-8D75-99B540620E80}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
