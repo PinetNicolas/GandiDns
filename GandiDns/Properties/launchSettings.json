@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GandiDns": {
+      "commandName": "Project",
+      "commandLineArgs": "pinet.li,pinet.dev 9LyVv4swx4kkFW0PwprcZWQP"
+    }
+  }
+}
